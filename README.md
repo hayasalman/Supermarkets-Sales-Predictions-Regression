@@ -45,7 +45,9 @@ Also, that will help us to reduce the categorical dimensions that we need to han
 
   ## Modeling
   
-  In order to solve this regresion proplem of predicting the future sales, we need training our data.So, we called out for sklearn functions :
+In order to solve this regression problem that consist of predicting the future sales, we need training our data on machine learning 
+algorithms for regression.Thus, we called out for sklearn functions: 
+  
   1. Linear Regression.
   2. Ridge Regression.
   3. Decision tree regressor.
