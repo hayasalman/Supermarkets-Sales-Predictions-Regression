@@ -31,9 +31,9 @@ In today's world, understanding what role certain properties of a product play a
 
      2- handling the missing/null values in the outlet size column : by observing any kind of patterns that are related to the missing values.
 
-     3- remove unnecessary variables in the dataset that didn't add any value to the analysis like identifiers columns.
+     3- remove unnecessary variables in the dataset that don't add any value to the analysis like identifiers columns.
 
-### **Feature Engineering** since machine learning designed to accept only the numeric values, we replaced the outlet establishment year by outlet age.Also, that will help us to reduce the categorical dimensions that we need to handle in the dataset.
+### **Feature Engineering** since machine learning designed to accept only the numeric values, we replaced the outlet establishment year by outlet age.Also, that help us to reduce the categorical dimensions that we need to handle in the dataset.
 
 - Performed exploratory data analysis (EDA) : univariate analysis, and bivariate analysis that will help us to describe and summarize the dataset characteristics,
   identify relationships between the  variables (which really crucial to the regression), or recognize any patterns within the dataset, and uncover insights.
