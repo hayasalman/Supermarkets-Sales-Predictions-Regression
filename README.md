@@ -1,5 +1,7 @@
 # Predicting The Sales In Retail Business 
 
+![Shutterstock_2011099340](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/assets/71796909/eb33196a-bce0-4ede-9573-68a22bf1657f)
+
 ## Overview 
 
 In today's world, understanding what role certain properties of a product play and how they affect the sales is imperative to any retail business.
@@ -24,7 +26,7 @@ while we find out which the branches need more of our attention and how we could
 
     ## Approches & Methodologies
     
--  General overview about the dataset like the dataset shape , data types, and detect any missing values, therefore, if there were any problems associated within the dataset,
+-  Performed a quik overview about the dataset like the dataset shape , data types, and detect any missing values, therefore, if there were any problems associated within the dataset,
   it should be handled before any kind of investigations.
 
    * within this dataset, there are some data issues need to be fixed :
@@ -38,8 +40,8 @@ while we find out which the branches need more of our attention and how we could
 **Feature Engineering** since machine learning designed to accept only the numeric values, we replaced the outlet establishment year by outlet age.
 Also, that will help us to reduce the categorical dimensions that we need to handle in the dataset.
 
-- Performed exploratory data analysis (EDA) : univariate analysis, and bivariate analysis that will help us to describe and summerize the dataset charchteristics,
-  and identify any correlations or reconize any patterns within the dataset.
+- Performed exploratory data analysis (EDA) : univariate analysis, and bivariate analysis that will help us to describe and summarize the dataset characteristics,
+  and identify relationships between the  variables (which really crucial to the regression), or recognize any patterns within the dataset.
 - Prepared data before modeling by : define the independent variables and target variable, encoding categorical variables by creating dummy variables, Scaling the numerical variables
   to have the same range, and finally split dataset into train-test datsets.
 
@@ -55,5 +57,12 @@ algorithms for regression.Thus, we called out for sklearn functions:
   5. Bagging regressor.
   6. Adaboost Regressor.
   7. Gradient Boosting Regressor.
-    
+
+  ### **But before that we should checking the linear regression assumptions**
+  
+  1. No Multicollinearity.
+  2. Mean of residuals should be 0 (or close to it).
+  3. No Heteroscedasticity.
+  4. Linearity of variables.
+  5. Normality of error terms.
     
