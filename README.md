@@ -37,8 +37,8 @@ In today's world, understanding what role certain properties of a product play a
 
 - Performed exploratory data analysis (EDA) : univariate analysis, and bivariate analysis that will help us to describe and summarize the dataset characteristics, identify associations between 
   the variables (which really crucial to the regression), or recognize any patterns within the dataset, or even to reveal insights.
-- Prepared data before modeling by : define the independent variables and target variable, encoding categorical variables by creating dummy variables, Scaling the numerical variables
-  to be in the same range, and finally split dataset into train-test datasets
+- Prepared data before modeling by : define the independent variables and target variable, encoding categorical variables by creating dummy variables, scaling the numerical variables
+  to be in the same range, and finally split our dataset into train-test datasets
   **(train dataset size : 70% - test dataset size : 30%)**.
 
   ## Modeling
