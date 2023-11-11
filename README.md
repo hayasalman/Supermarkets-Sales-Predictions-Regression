@@ -9,7 +9,7 @@ In today's world, understanding what role certain properties of a product play a
 ## About The Dataset
 
 - In total, this dataset has 8523 observations and 12 features, except it has some missing/nulls that need to be handled before doing any kind of analysis/modeling.
-- Data source stored as CSV file and can be reached through this link : [Dataset](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/SupermarketSalesData.csv)
+- Data source stored as CSV file and can be accessed through this link : [Dataset](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/SupermarketSalesData.csv)
 
 ## Coding
 -  Integrated Development Environment (IDE) : Python Jupyter Notebookes
