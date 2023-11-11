@@ -69,7 +69,7 @@ algorithms for regression.Thus, we called out for sklearn functions:
 ## Performance Evaluation & Draw Conclusions
 
 In terms of determining which of the models have the best performance results and will be used as a final solution.
-And as it's regression task we will use the following metrics that embedded with sklearn or we can use user-defined function to compute the results:
+And as it's regression task we will be using these following metrics that embedded within sklearn package or we can use user-defined function to compute the results:
 
 1. **RMSE** (Root Mean Squared Error): the value must be as small as possible.
 2. **MSE** (Mean Squared Error) : the value must be as small as possible.
