@@ -12,7 +12,7 @@ In today's world, understanding what role certain properties of a product play a
 - Data source stored as CSV file and can be accessed through this link : [Dataset](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/SupermarketSalesData.csv)
 
 ## Coding
--  Integrated Development Environment (IDE) : Python Jupyter Notebookes
+-  Python Integrated Development Environment (IDE) :  Jupyter Notebooks
 
    **Packeges used** 
   * **pandas - numby** : used for data manipulation.
