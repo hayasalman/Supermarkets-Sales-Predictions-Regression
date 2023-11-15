@@ -23,7 +23,8 @@ In today's world, understanding what role certain properties of a product play a
 
     ## Approches & Methodologies
     
--  Performed a quick overview about the dataset like the dataset shape , data types, and detected any missing values. Therefore, if there were any problems associated within the dataset, it should be handled before any kind of investigations.
+-  Performed a quick overview about the dataset like the dataset shape , data types, and detected any missing values. Therefore, if there were any problems associated within the dataset, it 
+   should be handled before any kind of investigations.
 
    * within this dataset, there are some data issues need to be fixed :
 
