@@ -21,7 +21,7 @@ In today's world, understanding what role certain properties of a product play a
   * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm,
     training the dataset in ML models, and to evaluate the performance of the models.
 
-    ## Approches & Methodologies
+    ## Approaches & Methodologies
     
 -  Performed a quick overview about the dataset like the dataset shape , data types, and detected any missing values. Therefore, if there were any problems associated within the dataset, it 
    should be handled before any kind of investigations.
