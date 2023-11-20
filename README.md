@@ -16,7 +16,7 @@ In today's world, understanding what role certain properties of a product play a
 
    **Packeges used** 
   * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualtion.
+  * **matplotlib - seaborn** : used for data visualization.
   * **statsmodels** : used for any kind of statistical analysis (hypothesis tests).
   * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm,
     training the dataset in ML models, and to evaluate the performance of the models.
