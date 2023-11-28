@@ -163,7 +163,7 @@ And as it's regression task we will be using these following metrics that embedd
 
 
 ### **Reference**
-[Predicting The Sales In Retail Business Project File](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/Supermarkets%20Sales%20Predictions%20.ipynb)
+[Predicting The Sales In Retail Business IPYNB File](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/Supermarkets%20Sales%20Predictions%20.ipynb)
   
    
 
