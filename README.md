@@ -36,7 +36,7 @@ We need to set up our local environment to programming using python , here :
 
    ```pip install seaborn```
 
-  ```pip install statsmodels```
+  ```pip install tensorflow```
 
   ```pip install scikit-learn```
 
@@ -49,6 +49,8 @@ We need to set up our local environment to programming using python , here :
 - Install Jupyter Notebooks.
 
   ```conda install jupyter notebook```
+
+  
 ## Coding
 
 -  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
@@ -162,7 +164,7 @@ And as it's regression task we will be using these following metrics that embedd
 - With the linear models we observed that the outlets in the supermarket type 3 have higher sales than the other outlets. However, with non-linear models we also came up with another interesting insight that is that the outlets of type supermarket type 1 where the outlet size is small have sales from items of the high market prices than other types of outlets. Known that: high market prices of the items can lead to increase the sales volume, hence, in order to improve the sales or maintain a good sales we suggest to pay attention to give more visibility of the items that have high market price to attract the customers to buy it.
 
 
-### **Reference**
+### **References**
 [Predicting The Sales In Retail Business IPYNB File](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/Supermarkets%20Sales%20Predictions%20.ipynb)
   
    
