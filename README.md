@@ -36,17 +36,6 @@ We need to set up our local environment to programming using python , here :
 
   ```conda install jupyter notebook```
 
-  
-## Coding
-
--  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
-
-   **Packeges used** 
-  * **pandas - numby** : used for data manipulation.
-  * **matplotlib - seaborn** : used for data visualization.
-  * **statsmodels** : used for any kind of statistical analysis (hypothesis tests).
-  * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm,
-    training the dataset in ML models, and to evaluate the performance of the models.
 
   
    
