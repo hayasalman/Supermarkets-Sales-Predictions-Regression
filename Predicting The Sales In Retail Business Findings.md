@@ -12,6 +12,18 @@ In today's world, understanding what role certain properties of a product play a
 - Data source stored as CSV file and can be accessed through this link : [Dataset](https://github.com/hayasalman/Supermarkets-Sales-Predictions-Regression/blob/main/SupermarketSalesData.csv)
 
 
+## Coding
+
+-  Python Integrated Development Environment (IDE) : Jupyter Notebooks.
+
+   **Packeges used** 
+  * **pandas - numby** : used for data manipulation.
+  * **matplotlib - seaborn** : used for data visualization.
+  * **statsmodels** : used for any kind of statistical analysis (hypothesis tests).
+  * **sklearn** : used to any preprocessing steps required before feeding the dataset into the machine learning algorithm,
+    training the dataset in ML models, and to evaluate the performance of the models.
+
+
     ## Approaches & Methodologies
     
 -  Performed a quick overview about the dataset like the dataset shape , data types, and detected any missing values. Therefore, if there were any problems associated within the dataset, it 
